@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title> Biology: Seres vivos   </title>
+    </head>
+    <body>
+      <h2> Indice </h2>
+      <li> a href= "#section1"> ¿Qué son los seres vivios? </a></li>
+      <li> a href= "#section2"> Características de los seres vivos </a></li>
+      <li> a href= "#section3"> Ciclo de la vida </a></li>
+      <li> a href= "#section4"> Reinos de la naturaleza </a></li>
+    </body>
+</html>
